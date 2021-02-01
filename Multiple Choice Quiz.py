@@ -58,7 +58,7 @@
 import sys
 import random
 from QuestionFile import Questionnaire
-from QuestionElite import QuestionContinued
+from QuestionElite import QuestionCont
 
 #B.
 question_prompts = [
