@@ -38,7 +38,7 @@ Author Hanna Damarjian
      # Also, note that the question amounts for the last four questions are fixed. That is, if the contestant answers Q12 worth $100,000 correctly, the contestant WINS
      # the $100,000 and it will not include the prior earnings because prior earnings < $100,000.
 
-# E. Alright, let us go!
+Alex Helped
 
 
 
